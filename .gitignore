@@ -1,0 +1,12 @@
+# Ignora o ambiente virtual
+.venv/
+
+# Ignora os caches do Python
+__pycache__/
+*.pyc
+
+# Ignora a pasta de gráficos temporários
+temp_plots/
+
+# Ignora arquivos de sistema do macOS
+.DS_Store
